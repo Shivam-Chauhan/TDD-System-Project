@@ -46,9 +46,20 @@ Run unit tests using:
 
 python -m unittest discover tdd_test
 
-TDD-System-Project/
-│── tdd_main.py         # String Calculator implementation
-│── tdd_test/           # Test directory
-│   ├── tdd_test1.py    # Unit tests
-│── README.md           # Project documentation
-│── .gitignore          # Ignored files
+
+🤝 Contribution
+
+Feel free to contribute by:
+
+Forking the repository
+
+Creating a new branch
+
+Submitting a pull request
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+💡 Happy Coding! 🚀
+
